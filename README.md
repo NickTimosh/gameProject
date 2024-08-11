@@ -1,1 +1,1 @@
-# gameProject
+# gameProject (javaScript)
